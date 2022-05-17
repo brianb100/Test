@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T19:52:59.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="s_BGawJ0-d6EWWGdQJNw" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T19:54:55.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ath6ndjo9LZ5jwBxppSB" version="18.0.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -51,8 +51,8 @@
         <mxCell id="13" value="Invoke Lambda&lt;br&gt;by S3 event&lt;br&gt;on every .csv upload" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="240.5" y="640" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="Users new added or are still active&amp;nbsp;" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" parent="1" vertex="1">
-          <mxGeometry x="301" y="450.5" width="40" height="26" as="geometry" />
+        <mxCell id="14" value="Users newly&amp;nbsp;added or are still active&amp;nbsp;" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="253.75" y="460" width="161" height="16.5" as="geometry" />
         </mxCell>
         <mxCell id="17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="4" target="13" edge="1">
           <mxGeometry width="100" height="100" as="geometry">
@@ -74,9 +74,6 @@
         </mxCell>
         <mxCell id="32" value="Workspace&lt;br&gt;terminate" style="shape=mxgraph.flowchart.merge_or_storage;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="505" y="860" width="130" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="38" value="create&#xa;final&#xa;report" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240.5" y="1730" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="40" value="Workspace &lt;br&gt;Provisioned" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="999" width="120" height="40" as="geometry" />
